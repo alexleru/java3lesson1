@@ -32,7 +32,7 @@ public class Main {
         orangeBox.putInBox(30);
         appleBox1.putInBox(18);
         appleBox2.putInBox(27);
-//не пойму, почему у меня в итоге в orangebox оказываются яблоки!!!
+//не пойму, почему у меня в итоге в orangebox оказываются яблоки!!!!
         System.out.println("Одинаков ли вес: " + appleBox2.compare(orangeBox));
 
     }
